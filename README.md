@@ -38,6 +38,7 @@ This project builds upon the code framework from CVPR21_PASS (https://github.com
 
 ## Citation
 If you find this work useful, please cite our paper:
+```
 @InProceedings{Qiu_2024_CVPR,
     author    = {Qiu, Zihuan and Xu, Yi and Meng, Fanman and Li, Hongliang and Xu, Linfeng and Wu, Qingbo},
     title     = {Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning},
@@ -46,3 +47,4 @@ If you find this work useful, please cite our paper:
     year      = {2024},
     pages     = {24025-24035}
 }
+```
