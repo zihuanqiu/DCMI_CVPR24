@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch implementation of the paper "Dual-consistency Model Inversion for Non-exemplar Class Incremental Learning" (CVPR 2024).
 
-Paper Link: （https://openaccess.thecvf.com/content/CVPR2024/html/Qiu_Dual-Consistency_Model_Inversion_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.html）
+Paper Link: (https://openaccess.thecvf.com/content/CVPR2024/html/Qiu_Dual-Consistency_Model_Inversion_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.html)
 
 
 ## Overview
